@@ -10,9 +10,9 @@ const Me = {
   }
 ```
 And
-I’m currently learning in connection with JS
+I’m currently learning in connection with JS..ㅎㅎ
 
-THANK YOU✨😆✨
+✨YEAH~~😆✨
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimKW1007&show_icons=true&theme=blueberry)
 <!--
