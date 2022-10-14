@@ -4,8 +4,8 @@
 const Me = {
     name : Kim Kyeong Won,
     pronouns : "he",
-    code : [JavaScript, HTML, CSS, SCSS],
-    tools : [React, Redux(little bit), Next, recoil, react-query, react hook form],
+    code : [JavaScript, HTML, CSS, SCSS, TypeScript],
+    tools : [React.js, Redux(little bit), Next.js, recoil, react-query, react hook form],
     goals : Front End || Full Stack😄
   }
 ```
